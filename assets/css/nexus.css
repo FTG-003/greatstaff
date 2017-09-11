@@ -2246,6 +2246,12 @@ ul.social-icons li a:hover {
 .social-youtube a:hover {
   background-color: #f45750 !important;
 }
+.social-instagram a {
+  background: url(../img/social_icons/instagram.png);
+}
+.social-instagram a:hover {
+  background-color: #ed6bcd !important;
+}
 .social-github a {
   background: url(../img/social_icons/github.png);
 }
