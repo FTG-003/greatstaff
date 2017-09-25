@@ -50,7 +50,9 @@ body {
   background-image: url("../img/sample_bg.jpg");
   background-origin: padding-box;
   background-position: 50% 0;
-  background-repeat: no-repeat;
+  background-repeat:no-repeat;
+background-size:contain;
+background-position:center;
   background-size: cover !important;
   position: relative;
 }
